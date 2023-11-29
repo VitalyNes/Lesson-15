@@ -1,0 +1,8 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "chai": "^4.3.10",
+    "hardhat": "^2.19.1"
+  }
+}
